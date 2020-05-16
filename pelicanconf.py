@@ -27,14 +27,12 @@ LINKS = (('Follow Marisol Enchufa on Amazon', 'https://www.amazon.com/kindle-dbs
 	    ,)
 
 # Social widget
-#SOCIAL = (('You can add links in your config file', '#'),
-#          ('Another social link', '#'),)
+SOCIAL = (("Marisol's Author Page", 'https://www.amazon.com/kindle-dbs/entity/author/B086CFNC3B'),)
 
 DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
-
 
 # GITHUB_URL = 'https://github.com/salsahandbook' # is this for the Fork Me badge?
 
