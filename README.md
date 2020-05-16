@@ -1,2 +1,2 @@
-# blog
+# salsablog
 Salsa Handbook 
