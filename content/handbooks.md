@@ -26,13 +26,13 @@ Introducing the books in the *Handbook of Salsa Dance* series. There are three b
 
 # Handbook of Salsa Dance Series
 
-This series covers beginner to intermediate level concepts, position, patterns, and combinations. 
+This series covers beginner to intermediate level dance elements. This includes handholds, positions, patterns, and combinations. 
 
 A salsa dance combination is comprised of two or more salsa dance patterns, each pattern covering two bars of music. Every salsa dance pattern begins and ends in a dance position. One can view the salsa dance pattern as the artful transition from a start position to an end position over eight beats of music. Because salsa dance is made up of combinations, and combinations are made up of patterns, one can view salsa dance as an aesthetically pleasing progression through a series of dance positions over the course of a song. Expert salsa dancers know how to get into and out of myriad salsa dance positions in interesting ways. Knowing how to do this can help increase your salsa dance repertoire.  This is facilitated by knowing your dance positions.
 
 Learn how to break down elaborate salsa combinations into individual components by name. This allows you to pick up new patterns more quickly. It also makes it easier to remember a pattern or combination you learned previously. This will help you to learn from other dancers.
 
-Each book contains links to free online lessons that demonstrate the techniques. The author researched over 500 websites and online video lessons and curated the best 83 of them for beginner and intermediate students.
+Each handbook contains links to free online lessons that demonstrate the techniques. The author researched hundreds of websites and online video lessons and curated the best 148 of them for beginner and intermediate students.
 
 
 
@@ -46,9 +46,11 @@ To best understand combinations and patterns, know your positions. To truly know
 
 Contents include a compendium of 68 salsa dance positions illustrated with 330 figures, an annotated curated list of 84 links to free online lessons from expert instructors, and a comprehensive dictionary of salsa dance terminology, packed into 387 pages. Each position is illustrated from multiple angles.
 
+<p><div style="text-align:center"><img src="images/fsd_lib_reverse_parallel_hold_high.png" /></div></p>
+
 This handbook will help you identify common elements of salsa dance by name.  When you have the vocabulary to describe the building blocks, you can understand what you see on the dance floor. You’ll be able to break down a combination into component patterns. You’ll be able to identify the positions that make up a pattern. Then you will then be able to compose new patterns of your own.
 
-Salsa dance elements covered in this handbook include steps, handholds, turns, combs, arm and leg stylings, positions, patterns, and combinations. Handholds covered include left to right hold, right to left hold, parallel hold, handshake hold, reverse handshake hold, cross hold, and reverse cross hold. Turns covered include cross body lead, reverse cross body lead, single right turn, single left turn, inside turn, outside turn, and enchufa turn. Positions covered include apart positions, open position, closed position, half open position, handshake hold, hammerlock, half Hammerlock, cross hold, reverse cross hold, neck loop, arm hook, cuddle, butterfly, sombrero, and wraps.
+![alt text](images/fsd_lib_reverse_parallel_hold_high.png "Logo Title Text 1") Salsa dance elements covered in this handbook include steps, handholds, turns, combs, arm and leg stylings, positions, patterns, and combinations. Handholds covered include left to right hold, right to left hold, parallel hold, handshake hold, reverse handshake hold, cross hold, and reverse cross hold. Turns covered include cross body lead, reverse cross body lead, single right turn, single left turn, inside turn, outside turn, and enchufa turn. Positions covered include apart positions, open position, closed position, half open position, handshake hold, hammerlock, half Hammerlock, cross hold, reverse cross hold, neck loop, arm hook, cuddle, butterfly, sombrero, and wraps.
 
 This handbook also comes in an ebook version.  The ebook version is ideally suited for referencing via smartphone.
 
