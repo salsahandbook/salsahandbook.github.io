@@ -46,11 +46,11 @@ To best understand combinations and patterns, know your positions. To truly know
 
 Contents include a compendium of 68 salsa dance positions illustrated with 330 figures, an annotated curated list of 84 links to free online lessons from expert instructors, and a comprehensive dictionary of salsa dance terminology, packed into 387 pages. Each position is illustrated from multiple angles.
 
-<p><div style="text-align:center"><img src="images/fsd_lib_reverse_parallel_hold_high.png" /></div></p>
+<p><div style="text-align:center"><img src="images/fsd_lib_reverse_parallel_hold_high.png" width="200" height="350" /></div></p>
 
 This handbook will help you identify common elements of salsa dance by name.  When you have the vocabulary to describe the building blocks, you can understand what you see on the dance floor. You’ll be able to break down a combination into component patterns. You’ll be able to identify the positions that make up a pattern. Then you will then be able to compose new patterns of your own.
 
-![alt text](images/fsd_lib_reverse_parallel_hold_high.png "Logo Title Text 1") Salsa dance elements covered in this handbook include steps, handholds, turns, combs, arm and leg stylings, positions, patterns, and combinations. Handholds covered include left to right hold, right to left hold, parallel hold, handshake hold, reverse handshake hold, cross hold, and reverse cross hold. Turns covered include cross body lead, reverse cross body lead, single right turn, single left turn, inside turn, outside turn, and enchufa turn. Positions covered include apart positions, open position, closed position, half open position, handshake hold, hammerlock, half Hammerlock, cross hold, reverse cross hold, neck loop, arm hook, cuddle, butterfly, sombrero, and wraps.
+Salsa dance elements covered in this handbook include steps, handholds, turns, combs, arm and leg stylings, positions, patterns, and combinations. Handholds covered include left to right hold, right to left hold, parallel hold, handshake hold, reverse handshake hold, cross hold, and reverse cross hold. Turns covered include cross body lead, reverse cross body lead, single right turn, single left turn, inside turn, outside turn, and enchufa turn. Positions covered include apart positions, open position, closed position, half open position, handshake hold, hammerlock, half Hammerlock, cross hold, reverse cross hold, neck loop, arm hook, cuddle, butterfly, sombrero, and wraps.
 
 This handbook also comes in an ebook version.  The ebook version is ideally suited for referencing via smartphone.
 
@@ -73,6 +73,8 @@ The second book in this series shows how to break down patterns into constituent
 This Handbook provides a breakdown of common positions, holds, turns, and patterns. It contains 36 dance positions, 51 dance patterns, and 184 illustrations, all packed into 293 pages.
 
 A salsa dance combination is comprised of two or more dance patterns, each pattern covering two bars of music. Every salsa dance pattern begins and ends in a dance position. One can view the salsa dance pattern as the artful transition from a start position to an end position over eight beats of music. Because salsa dance is made up of combinations, and combinations are made up of patterns, one can view salsa dance as an aesthetically pleasing progression through a series of dance patterns over the course of a song. Expert salsa dancers know how to get into and out of myriad salsa dance positions in interesting ways.
+
+<p><div style="text-align:center"><img src="images/Closed_R_to_R_Hammerlock_SBS_LOL.PNG" width="150" height="262" /></div></p>
 
 Those amazing dancers that you see on the dance floor seem to have an endless knowledge base of elaborate combinations. How can they memorize so many different combinations? The secret is that many of them tend to use a small collection of patterns. They know how to get into and out of a position. If they have a combination that begins with some particular start position, they also know an interesting way to get into that position. Each pattern they perform takes them from the start position to an end position. They know how to take that end position and turn it into a start position for the next pattern. They know how to mix and match patterns to create combinations that seem to be infinitely varied.
 
@@ -97,6 +99,8 @@ The patterns in this handbook can be used to create thousands of combinations. I
 The newest handbook in this series focuses on one type of salsa dance element: the butterfly position. 
 
 This is a comprehensive exploration of salsa dance butterfly patterns. Whether you learn best from illustrations, diagrams, descriptions. or video, this handbook has you covered.
+
+<p><div style="text-align:center"><img src="images/Half_L_Butterfly__Half_R_Self_Neck_Loop_LOW.PNG" width="225" height="400" /></div></p>
 
 This handbook breaks down 5 categories of butterfly variations. Each set of variations combines common butterfly positions, holds, turns into patterns. Each focuses on a single objective, such as entering a butterfly position, exiting a butterfly position, and using a butterfly position in the middle part of a pattern. These variations comprise 20 dance positions, 40 dance patterns, 131 illustrations. This handbook shows how to combine these patterns into enough combinations to fill an entire night of dancing without once repeating.
 
