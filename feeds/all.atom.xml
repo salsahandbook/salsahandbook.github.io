@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Salsa Handbook - bookshelf</title><link href="/" rel="alternate"></link><link href="/feeds/bookshelf.atom.xml" rel="self"></link><id>/</id><updated>2020-06-13T12:34:56-07:00</updated><entry><title>Salsa Dance Styles</title><link href="/salsa-styles.html" rel="alternate"></link><published>2020-06-13T12:34:56-07:00</published><updated>2020-06-13T12:34:56-07:00</updated><author><name>Marisol Enchufa</name></author><id>tag:None,2020-06-13:/salsa-styles.html</id><summary type="html">&lt;p&gt;This article introduces common styles of salsa dance.&lt;/p&gt;</summary><content type="html">&lt;p&gt;There are many styles of salsa dance. They can differ in many ways.  Some of the ways in which they may differ are very nuanced. However, there are two primary defining characteristics:&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Salsa Handbook</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2020-06-13T12:34:56-07:00</updated><entry><title>Salsa Dance Styles</title><link href="/salsa-styles.html" rel="alternate"></link><published>2020-06-13T12:34:56-07:00</published><updated>2020-06-13T12:34:56-07:00</updated><author><name>Marisol Enchufa</name></author><id>tag:None,2020-06-13:/salsa-styles.html</id><summary type="html">&lt;p&gt;This article introduces common styles of salsa dance.&lt;/p&gt;</summary><content type="html">&lt;p&gt;There are many styles of salsa dance. They can differ in many ways.  Some of the ways in which they may differ are very nuanced. However, there are two primary defining characteristics:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;The traveling style&lt;/li&gt;
 &lt;li&gt;The timing used for the break step in the basic step&lt;/li&gt;
@@ -20,7 +20,7 @@
 &lt;p&gt;&lt;strong&gt;On1 basic step&lt;/strong&gt;: Uses 8 beats to complete; with the feet alternating step on beats 1,2,3; pause on beat 4; stepping on beats 5,6,7; pausing on beat 8&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Los Angeles Style is often referred to as LA Style and also as West Coast Style. LA style salsa is an eight beat dance made up of six steps and two pauses. The eight beats cover two musical bars. It is an “On1” style because its break step is on the first beat of the musical bar. Steps 4 and 8 are paused. &lt;/p&gt;
-&lt;p&gt;A common way of counting the steps over two musical bars is “1-2-3, 5-6-7”. Another common way of counting the steps is to recite "quick quick slow, quick quick slow", with each &lt;code&gt;quick&lt;/code&gt; taking one beat, and each &lt;code&gt;slow&lt;/code&gt; taking two beats. The following animation illustrates the On1 Basic Step, along with each way of counting -- note the &lt;code&gt;SLOW!&lt;/code&gt; appearing over beats 3&amp;amp;4 and beats 7&amp;amp;8.&lt;/p&gt;
+&lt;p&gt;A common way of counting the steps over two musical bars is “1-2-3, 5-6-7”. Another common way of counting the steps is to recite "quick quick slow, quick quick slow", with each &lt;code&gt;quick&lt;/code&gt; taking one beat, and each &lt;code&gt;slow&lt;/code&gt; taking two beats. The following animation illustrates the On1 Basic Step, along with each way of counting -- note the &lt;code&gt;SLOW!!!&lt;/code&gt; appearing over beats 3&amp;amp;4 and beats 7&amp;amp;8.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3&gt;On1 Basic Step:&lt;/h3&gt;
 &lt;p align="center"&gt;
@@ -34,7 +34,7 @@
 &lt;p&gt;&lt;strong&gt;On2 basic step&lt;/strong&gt;: Uses 8 beats to complete but breaking on beat two of the musical bar, equivalently on beats two and six of the eight beat count. This can be done in several ways.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Several styles utilize On2 timing, including New York Style, Mambo On2, Eddie Torres Style, Mambo Palladium Style, Classic Mambo, and Son Cubano. &lt;/p&gt;
-&lt;p&gt;How the step is counted can vary within the On2 styles.  The Palladium style basic step counts its steps as "2-3-4, 6-7-8".&lt;/p&gt;
+&lt;p&gt;How the step is counted can vary within the On2 styles.  The Palladium style basic step counts its steps as "2-3-4, 6-7-8".  One can also count the steps by reciting "quick quick slow, quick quick slow", with the first &lt;code&gt;quick&lt;/code&gt; on beat two, and a &lt;code&gt;slow&lt;/code&gt; step on beats 4&amp;amp;5, and on beats 8&amp;amp;1. It is like On1, but delayed a beat.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3&gt;On2 Palladium Style Basic Step:&lt;/h3&gt;
 &lt;p align="center"&gt;
@@ -43,7 +43,7 @@
 
 &lt;p&gt;&lt;a href="http://cesar-filo.com/articles/timing-salsa-styles.html"&gt;credit&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;Even though Eddie Torres style uses On2 timing, it counts its steps as "1-2-3, 5-6-7", just like the classic On1 style illustrated above.&lt;/p&gt;
+&lt;p&gt;Even though Eddie Torres style uses On2 timing, it counts its steps as "1-2-3, 5-6-7", just like the classic On1 style illustrated above. If counting the steps by reciting "quick quick slow, quick quick slow", then the first &lt;code&gt;quick&lt;/code&gt; occurs when the leader's right foot returns to center on beat one, with a &lt;code&gt;slow&lt;/code&gt; step on beats 3&amp;amp;4 and on beats 7&amp;amp;8. &lt;/p&gt;
 &lt;hr&gt;
 &lt;h3&gt;On2 Eddie Torres Style Basic Step:&lt;/h3&gt;
 &lt;p align="center"&gt;
