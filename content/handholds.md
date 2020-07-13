@@ -1,7 +1,7 @@
 Title: Salsa Dance Hand Holds
 Date: 2020-07-11 12:34:56
 Modified: 2020-07-11 12:34:56
-Category: blog
+Category: bookshelf
 Tags:
 Slug: salsa-handholds
 Authors: Marisol Enchufa

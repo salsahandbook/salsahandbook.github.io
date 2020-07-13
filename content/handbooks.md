@@ -1,7 +1,7 @@
 Title: Handbook of Salsa Dance
 Date: 2020-05-16 11:37:00
 Modified: 2020-05-16 12:57:00
-Category: blog
+Category: bookshelf
 Tags:
 Slug: salsa-handbooks
 Authors: Marisol Enchufa

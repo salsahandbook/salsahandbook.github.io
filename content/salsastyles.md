@@ -1,7 +1,7 @@
 Title: Salsa Dance Styles
 Date: 2020-06-13 12:34:56
 Modified: 2020-06-13 12:34:56
-Category: blog
+Category: bookshelf
 Tags:
 Slug: salsa-styles
 Authors: Marisol Enchufa
