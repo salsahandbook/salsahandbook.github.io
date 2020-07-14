@@ -44,7 +44,6 @@ Each handbook contains links to free online lessons that demonstrate the techniq
 
 <div style="text-align:center"><p><br/></p></div>
 
-https://salsahandbook.github.io/output/category/images/Positions/Half_Closed_LLHS.PNG
 
 # Illustrated Handbook of Salsa Dance: **Positions**
 <div style="text-align:center"><img src="https://salsahandbook.github.io/output/images/positions-paperback.jpg" /></div>
@@ -53,7 +52,7 @@ To best understand combinations and patterns, know your positions. To truly know
 
 Contents include a compendium of 68 salsa dance positions illustrated with 330 figures, an annotated curated list of 84 links to free online lessons from expert instructors, and a comprehensive dictionary of salsa dance terminology, packed into 387 pages. Each position is illustrated from multiple angles.
 
-<p><div style="text-align:center"><img src="images/Positions/fsd_lib_reverse_parallel_hold_high.png" width="200" height="350" /></div></p>
+<p><div style="text-align:center"><img src="https://salsahandbook.github.io/output/images/Positions/fsd_lib_reverse_parallel_hold_high.png" width="200" height="350" /></div></p>
 
 This handbook will help you identify common elements of salsa dance by name.  When you have the vocabulary to describe the building blocks, you can understand what you see on the dance floor. You’ll be able to break down a combination into component patterns. You’ll be able to identify the positions that make up a pattern. Then you will then be able to compose new patterns of your own. Expert salsa dancers know how to get into and out of myriad salsa dance positions in interesting ways.
 
