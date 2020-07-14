@@ -4,8 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Marisol Enchufa'
 SITENAME = 'Salsa Handbook'
-SITEURL = ''
-#SITEURL = 'https://github.com/salsahandbook/' # todo: experiment after first push
+SITEURL = 'https://salsahandbook.github.io/'
 
 PATH = 'content'
 
@@ -38,4 +37,4 @@ DEFAULT_PAGINATION = False
 
 GOOGLE_ANALYTICS = "UA-123156804-1" 
 
-STATIC_PATHS = ['images']
+STATIC_PATHS = ['images', 'images/Positions']
