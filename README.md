@@ -1,14 +1,15 @@
-Introducing the *Handbook of Salsa Dance* series.
+#### Introducing the *Handbook of Salsa Dance* series.
 
 
-## Articles about Salsa Dance
+## For articles about Salsa Dance
 
 **Click [on this link for the blog](https://salsahandbook.github.io/output/)**
 which contains helpful tutorial articles about salsa dance that supplement
 the handbooks.
 
 
-## Handbooks
+
+## About the Handbooks
 
 There are three handbooks in this series:
 

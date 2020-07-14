@@ -50,8 +50,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="207">
-                <caret line="48" column="87" lean-forward="false" selection-start-line="48" selection-start-column="80" selection-end-line="48" selection-end-column="87" />
+              <first_editor relative-caret-position="154">
+                <caret line="11" column="9" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -137,6 +137,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>images/</find>
+      <find>category</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -380,8 +381,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="207">
-            <caret line="48" column="87" lean-forward="false" selection-start-line="48" selection-start-column="80" selection-end-line="48" selection-end-column="87" />
+          <first_editor relative-caret-position="154">
+            <caret line="11" column="9" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
             <folding />
           </first_editor>
           <second_editor />
