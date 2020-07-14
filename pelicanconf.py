@@ -31,7 +31,7 @@ SOCIAL = (("Marisol's Author Page", 'https://www.amazon.com/kindle-dbs/entity/au
 DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
 
 # GITHUB_URL = 'https://github.com/salsahandbook' # is this for the Fork Me badge?
 
