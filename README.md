@@ -1,7 +1,7 @@
 Introducing the *Handbook of Salsa Dance* series.
 
 
-## Blog
+## Articles about Salsa Dance
 
 **Click [on this link for the blog](https://salsahandbook.github.io/output/)**
 which contains helpful tutorial articles about salsa dance that supplement
