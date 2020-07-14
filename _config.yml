@@ -1,8 +1,0 @@
-title: Salsahandbook.GitHub.io
-description: Handbook of Salsa Dance
-google_analytics: 
-show_downloads: true
-theme: jekyll-theme-architect
-
-gems:
-  - jekyll-mentions
