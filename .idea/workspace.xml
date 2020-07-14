@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c44021f-d5cb-4a82-89f6-ce4f9ec962be" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/howto.md" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,7 +38,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="1834">
-                <caret line="131" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
+                <caret line="131" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -52,8 +50,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="112">
-                <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+              <first_editor relative-caret-position="140">
+                <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -361,7 +359,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="1834">
-            <caret line="131" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
+            <caret line="131" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
@@ -371,8 +369,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="112">
-            <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+          <first_editor relative-caret-position="140">
+            <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
             <folding />
           </first_editor>
           <second_editor />
