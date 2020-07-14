@@ -3,9 +3,11 @@
 
 ## For articles about Salsa Dance
 
-**Click [on this link for the blog](https://salsahandbook.github.io/output/)**
-which contains helpful tutorial articles about salsa dance that supplement
-the handbooks.
+**Click [on this link for the blog](https://salsahandbook.github.io)**
+and if your browser does not like that link,
+*[try this link](https://salsahandbook.github.io/output/)*.
+This blog contains helpful tutorial articles about salsa dance
+that supplement the handbooks.
 
 
 
