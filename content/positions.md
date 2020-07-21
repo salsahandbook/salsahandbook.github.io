@@ -186,6 +186,7 @@ To learn more about salsa dance check out these books:
     * [Kobo Edition](https://www.kobo.com/us/en/ebook/illustrated-handbook-of-salsa-dance-1)
     * [Kindle Edition](https://www.amazon.com/Illustrated-Handbook-Salsa-Dance-Patterns-ebook/dp/B084G82R7M)
     * [Paperback Edition on Amazon](https://www.amazon.com/gp/product/B086Y7R97V)
+    * [Google Play](https://books.google.com/books/about?id=1BXmDwAAQBAJ)
 
 3. Illustrated Handbook of Salsa Dance: **Butterfly Patterns**
     * [Kindle Edition](https://www.amazon.com/gp/product/B087C9C4CP)
