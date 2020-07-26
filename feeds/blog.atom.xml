@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Salsa Handbook - blog</title><link href="https://salsahandbook.github.io/output/" rel="alternate"></link><link href="https://salsahandbook.github.io/output/feeds/blog.atom.xml" rel="self"></link><id>https://salsahandbook.github.io/output/</id><updated>2020-08-01T12:34:56-07:00</updated><entry><title>Salsa Dance Positions</title><link href="https://salsahandbook.github.io/output/salsa-positions.html" rel="alternate"></link><published>2020-08-01T12:34:56-07:00</published><updated>2020-08-01T12:34:56-07:00</updated><author><name>Marisol Enchufa</name></author><id>tag:salsahandbook.github.io,2020-08-01:/output/salsa-positions.html</id><summary type="html">&lt;p&gt;This article explains the salsa dance position.&lt;/p&gt;</summary><content type="html">&lt;blockquote&gt;
-&lt;p&gt;DRAFT VERSION.  WORK IN PROGRESS&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Positions are a fundamental element of partner dance. Salsa dance elements include the following:&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Salsa Handbook - blog</title><link href="https://salsahandbook.github.io/output/" rel="alternate"></link><link href="https://salsahandbook.github.io/output/feeds/blog.atom.xml" rel="self"></link><id>https://salsahandbook.github.io/output/</id><updated>2020-08-01T12:34:56-07:00</updated><entry><title>Salsa Dance Positions</title><link href="https://salsahandbook.github.io/output/salsa-positions.html" rel="alternate"></link><published>2020-08-01T12:34:56-07:00</published><updated>2020-08-01T12:34:56-07:00</updated><author><name>Marisol Enchufa</name></author><id>tag:salsahandbook.github.io,2020-08-01:/output/salsa-positions.html</id><summary type="html">&lt;p&gt;This article explains the salsa dance position.&lt;/p&gt;</summary><content type="html">&lt;h1&gt;What is a salsa dance position&lt;/h1&gt;
+&lt;p&gt;The salsa dance position is a fundamental element of partner dance. Salsa dance elements include the following:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Steps&lt;/li&gt;
 &lt;li&gt;Handholds&lt;/li&gt;
@@ -13,71 +11,65 @@
 &lt;li&gt;Patterns&lt;/li&gt;
 &lt;li&gt;Combinations&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;What is a position&lt;/h4&gt;
-&lt;p&gt;A salsa dance position comprises the orientation of the dancers with respect to each other and the handhold.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href="https://salsahandbook.github.io/output/salsa-handholds.html"&gt;Link to handholds blog article&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Aspects of dancer orientation include what direction each dancer is facing, at what level are the hands held, and the direction of eye gaze.&lt;/p&gt;
-&lt;h4&gt;Why is the dance position important&lt;/h4&gt;
-&lt;p&gt;Every salsa dance pattern begins and ends in a dance position. One can view salsa dance as the artful transition through a series of positions. Expert salsa dancers know how to get into and out of myriad salsa dance positions in interesting ways. Knowing how to do this can help increase your salsa dance repertoire.  This is facilitated by knowing your dance positions.&lt;/p&gt;
-&lt;h4&gt;How does the position fit into patterns and combinations&lt;/h4&gt;
-&lt;p&gt;A salsa dance combination is comprised of two or more salsa dance patterns, each pattern covering two bars of music. Every salsa dance pattern begins and ends in a dance position. The salsa dance pattern is a transition from a start position to an end position over eight beats of music. Because salsa dance is made up of combinations, and combinations are made up of patterns, one can view salsa dance as an aesthetically pleasing progression through a series of dance positions over the course of a song. &lt;/p&gt;
-&lt;p&gt;We refer to the leader as Leader.  We refer to the follower as Follower.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Facing Each Other (FEO)&lt;/li&gt;
-&lt;li&gt;Facing Opposite Directions (FOD)&lt;/li&gt;
-&lt;li&gt;Side By Side (SBS)&lt;/li&gt;
-&lt;li&gt;Leader In Front (LIF)&lt;/li&gt;
-&lt;li&gt;Leader In Back (LIB)&lt;/li&gt;
-&lt;li&gt;Leader On Right (LOF)&lt;/li&gt;
-&lt;li&gt;Leader On Left (LOL)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Half closed position:
-- FEO, LRH on Follower left upper back, FLH on LLS.&lt;/p&gt;
-&lt;p&gt;&lt;div style="text-align:center"&gt;&lt;img src="images/Positions/Half_Closed_LLHS.PNG" width="150" height="262" /&gt;&lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;Apart, FEO.&lt;/p&gt;
+&lt;p&gt;A salsa dance position comprises the orientation of the dancers with respect to each other and the handhold. For more about handholds, see &lt;a href="https://salsahandbook.github.io/output/salsa-handholds.html"&gt;this article, which is all about salsa dance handholds&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Aspects of dancer orientation include what direction each dancer is facing, whether the dancers are in a handhold, at what level are the hands held, and the direction of eye gaze. &lt;/p&gt;
+&lt;p&gt;We refer to the leader as &lt;code&gt;Leader&lt;/code&gt; and to the follower as &lt;code&gt;Follower&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Facing Each Other&lt;/code&gt; is a common orientation.  Here, the dancers are apart and facing each other. &lt;code&gt;Apart&lt;/code&gt; means that they are not touching. That also implies that they are not holding hands. That is, they are not in a &lt;a href="https://salsahandbook.github.io/output/salsa-handholds.html"&gt;handhold&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;div style="text-align:center"&gt;&lt;img src="images/Positions/Apart_FEO_LLHS.PNG" width="150" height="262" /&gt;&lt;/div&gt;&lt;/p&gt;
 
-&lt;p&gt;The most common position is Open Position.  It is actually just one kind of open position. An open position is any position involving a handhold that is not a closed position.  However, because this is by far the most common open position, and because the other open positions all tend to have their own distinctive name, this position is usually called just "Open Position". &lt;/p&gt;
+&lt;p&gt;Here is a more advanced position where the dancers are &lt;code&gt;Facing Same Direction&lt;/code&gt;, &lt;code&gt;Side By Side&lt;/code&gt;, and with &lt;code&gt;Leader On Left&lt;/code&gt;. &lt;/p&gt;
+&lt;p&gt;&lt;div style="text-align:center"&gt;&lt;img src="images/Positions/Closed_R_to_R_Hammerlock_SBS_LOL.PNG" width="150" height="262" /&gt;&lt;/div&gt;&lt;/p&gt;
+
+&lt;h1&gt;Why the dance position is important&lt;/h1&gt;
+&lt;p&gt;Salsa dance is a pleasing transition through a series of positions. Every salsa dance pattern begins and ends in a dance position. Expert salsa dancers know how to get into and out of myriad salsa dance positions in interesting ways. &lt;/p&gt;
+&lt;p&gt;Knowing how to transition through positions in fun and pleasing ways can help increase your salsa dance repertoire.  This is facilitated by knowing your dance positions.&lt;/p&gt;
+&lt;h1&gt;How does the position fit into patterns and combinations&lt;/h1&gt;
+&lt;p&gt;For many salsa dance enthusiasts, salsa dance is the aesthetically pleasing progression through a series of dance combinations over the course of a song. A salsa dance combination is comprised of two or more salsa dance patterns, each pattern covering two bars of music. Every salsa dance pattern begins and ends in a dance position. Therefore, the salsa dance pattern is a pleasing transition from a start position to an end position over eight beats of music. Because salsa dance is made up of combinations, and combinations are made up of patterns, and a dance pattern begins in a position and ends in a position, one can view salsa dance positions as a fundamental building block of the salsa dance combination.&lt;/p&gt;
+&lt;h1&gt;More examples of basic salsa dance positions&lt;/h1&gt;
+&lt;h3&gt;Half Closed Position&lt;/h3&gt;
+&lt;p&gt;The dancers are facing each other, with Leader's right hand on Follower's left upper back, and Follower's left hand on Leader's left shoulder.&lt;/p&gt;
+&lt;p&gt;&lt;div style="text-align:center"&gt;&lt;img src="images/Positions/Half_Closed_LLHS.PNG" width="150" height="262" /&gt;&lt;/div&gt;&lt;/p&gt;
+
+&lt;h3&gt;Open Position&lt;/h3&gt;
+&lt;p&gt;An "open position" is a class of positions where the dancers are not in a closed position, typically in a handhold, and typically facing each other. Because this particular open position is so common it is often referred to simply as &lt;strong&gt;Open Position&lt;/strong&gt;. The dancers are holding both pairs of hands. This handhold is also referred to as a parallel handhold.&lt;/p&gt;
 &lt;p&gt;&lt;div style="text-align:center"&gt;&lt;img src="images/Positions/Open_LLHS.PNG" width="150" height="262" /&gt;&lt;/div&gt;&lt;/p&gt;
 
-&lt;p&gt;This particular open position is used so often it is often referred to simply as &lt;strong&gt;Open Position&lt;/strong&gt;.&lt;/p&gt;
-&lt;h3&gt;Right to Left&lt;/h3&gt;
-&lt;p&gt;The most common position in which this handhold is used is shown here, and is known as &lt;strong&gt;Half Open, Right to Left&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3&gt;Half Open Right to Left&lt;/h3&gt;
+&lt;p&gt;This is a variation of the Open Position where the dancers are holding only one pair of hands. Leader's right hand is holding Follower's left hand.&lt;/p&gt;
 &lt;p&gt;&lt;div style="text-align:center"&gt;&lt;img src="images/Positions/Half_Open_R_to_L_LLHS.PNG" width="150" height="262" /&gt;&lt;/div&gt;&lt;/p&gt;
 
-&lt;h3&gt;Left to Right&lt;/h3&gt;
-&lt;p&gt;The most common position in which this handhold is used is shown here, and is known as &lt;strong&gt;Half Open, Left to Right&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3&gt;Half Open Left to Right&lt;/h3&gt;
+&lt;p&gt;This is another variation of the Open Position where the dancers are holding only one pair of hands. Leader's left hand is holding Follower's right hand.&lt;/p&gt;
 &lt;p&gt;&lt;div style="text-align:center"&gt;&lt;img src="images/Positions/Half_Open_L_to_R_LLHS.PNG" width="150" height="262" /&gt;&lt;/div&gt;&lt;/p&gt;
 
-&lt;h3&gt;Right to Right&lt;/h3&gt;
-&lt;p&gt;The most common position in which this handhold is used is shown here, and is known as &lt;strong&gt;Handshake&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3&gt;Handshake&lt;/h3&gt;
+&lt;p&gt;In this position the dancers are facing each other, in a right to right handhold. This is one of those positions that is named after the handhold. However, it is possible to be in an orientation other than the one shown here. &lt;/p&gt;
 &lt;p&gt;&lt;div style="text-align:center"&gt;&lt;img src="images/Positions/Handshake_LLHS.PNG" width="150" height="262" /&gt;&lt;/div&gt;&lt;/p&gt;
 
-&lt;h3&gt;Left to Left&lt;/h3&gt;
-&lt;p&gt;The most common position in which this handhold is used is shown here, and is known as &lt;strong&gt;Reverse Handshake&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;Reverse Handshake&lt;/h3&gt;
+&lt;p&gt;In this position the dancers are facing each other, in a left to left handhold.&lt;/p&gt;
 &lt;p&gt;&lt;div style="text-align:center"&gt;&lt;img src="images/Positions/Reverse_Handshake_LLHS.PNG" width="150" height="262" /&gt;&lt;/div&gt;&lt;/p&gt;
 
-&lt;h3&gt;Left to Left, Right to Right. LRH/LLH&lt;/h3&gt;
-&lt;p&gt;The most common position in which this handhold is used is shown here, and is known as &lt;strong&gt;Crosshold&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;Crosshold&lt;/h3&gt;
+&lt;p&gt;This is another position that is named after the handhold. This is a type of open position where the dancers facing each other, holding both pairs of hands, and where the hands are crossed.  The handhold is right hand to right hand, left hand to left hand, with Leader's right hand over Leader's left hand.&lt;/p&gt;
 &lt;p&gt;&lt;div style="text-align:center"&gt;&lt;img src="images/Positions/Crosshold_LLHS.PNG" width="150" height="262" /&gt;&lt;/div&gt;&lt;/p&gt;
 
-&lt;p&gt;Here is how this handhold appears from an overhead view:&lt;/p&gt;
+&lt;p&gt;Here is how this position appears from an overhead view:&lt;/p&gt;
 &lt;p&gt;&lt;div style="text-align:center"&gt;&lt;img src="images/Positions/Crosshold_overhead.PNG" width="300" height="262" /&gt;&lt;/div&gt;&lt;/p&gt;
 
-&lt;h3&gt;Left to Left, Right to Right. LLH/LRH&lt;/h3&gt;
-&lt;p&gt;This is a variation of the crosshold, where Leader's left hand is over Leader's right hand. This position is also known as &lt;strong&gt;Reverse Crosshold&lt;/strong&gt;. However, not everyone might know that term, so sometimes it is just referred to as "left to left, right to right, left over right".&lt;/p&gt;
+&lt;p&gt;Leader can remember this as "left to left, right to right, right over left".&lt;/p&gt;
+&lt;h3&gt;Reverse Crosshold&lt;/h3&gt;
+&lt;p&gt;This is a variation of the Crosshold, where Leader's left hand is over Leader's right hand. Leader can remember it as "left to left, right to right, left over right".&lt;/p&gt;
 &lt;p&gt;&lt;div style="text-align:center"&gt;&lt;img src="images/Positions/Reverse_Crosshold_LLHS.PNG" width="150" height="262" /&gt;&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;Here is how this handhold appears from an overhead view:&lt;/p&gt;
 &lt;p&gt;&lt;div style="text-align:center"&gt;&lt;img src="images/Positions/Reverse_Crosshold_overhead.PNG" width="300" height="262" /&gt;&lt;/div&gt;&lt;/p&gt;
 
-&lt;h3&gt;Left to Right, Right to Left, LLH/LRH&lt;/h3&gt;
-&lt;p&gt;Here is one of the more unusual handholds.  It is sometimes called a &lt;strong&gt;Reverse Parallel Hold&lt;/strong&gt;; however it is actually a kind of parallel hold but where the hands are crossed. &lt;/p&gt;
+&lt;p&gt;Many positions have inversions which mirror the original position, or where the handhold is inverted. This is why it is helpful to know how to breakdown a position into its parts, so that when introduced to a new position you can realize that it is a variation of a position that you already know.&lt;/p&gt;
+&lt;h3&gt;Crossed Parallel Hold&lt;/h3&gt;
+&lt;p&gt;Here is one of the more unusual positions. It uses a kind of parallel hold but where the hands are crossed.  The handhold is left to right and right to left, with Leader's left hand over Leader's right hand (LLH/LRH)&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Note on naming: truthfully there doesn't seem to be a standard name for this handhold. This is one of those handholds where it can be simpler to just explicitly describe the hold, as in "right to left, left to right, left over right". Or, for its inverse variation, as "right to left, left to right, right over left". A better common name might be "Crossed Parallel". &lt;/p&gt;
+&lt;p&gt;Note on naming: truthfully there doesn't seem to be a standard name for this handhold. This is one of those handholds where it can be simpler to just explicitly describe the hold, as in "right to left, left to right, left over right". Or, for its inverse variation, as "left to right, right to left, right over left". The section below on Shorthand delves more into this topic.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;div style="text-align:center"&gt;&lt;img src="images/Positions/Reverse_Parallel_Hold_LLHS.PNG" width="300" height="471" /&gt;&lt;/div&gt;&lt;/p&gt;
 
@@ -87,24 +79,50 @@
 &lt;p&gt;Here is how this handhold appears from an overhead view:&lt;/p&gt;
 &lt;p&gt;&lt;div style="text-align:center"&gt;&lt;img src="images/Positions/Reverse_Parallel_Hold_overhead.PNG" width="350" height="262" /&gt;&lt;/div&gt;&lt;/p&gt;
 
-&lt;p&gt;You might ask, do people really get into that hold? Is it useful? The answer would be yes, and yes. This handhold can be entered when performing a double handed turn. The other variation of this where LRH/LLH is obtained when perfoming the double turn in the opposite spin direction.&lt;/p&gt;
+&lt;p&gt;You might ask, do people really get into that hold? Is it useful? The answer would be yes, and yes. This handhold can be entered when performing a double handed turn. The variation of this where the hold is inverted (Leader's right hand over Leader's left hand) is obtained when perfoming the double turn in the opposite spin direction.&lt;/p&gt;
 &lt;h2&gt;Applications&lt;/h2&gt;
-&lt;p&gt;When you adjust the orientation of the dancers, these handholds suddenly transform into interesting positions.&lt;/p&gt;
-&lt;p&gt;Here is a Right to Left, Left to Right hand hold at high level. This is essentially the same handhold as is used in the standard open position. Only the orientation of the dancers and the height level of the handhold has changed.&lt;/p&gt;
+&lt;p&gt;A simple handhold in a facing each other orientation can transform into another interesting position just by modifying the orientation of the dancers.&lt;/p&gt;
+&lt;p&gt;Here is a right to left, left to right hand hold at high level. This is essentially the same handhold as is used in the standard open position. Only the orientation of the dancers and the height level of the handhold has changed. If you guessed that this position can be obtained by a transition from the Open Position, you would be correct!&lt;/p&gt;
 &lt;p&gt;&lt;div style="text-align:center"&gt;&lt;img src="images/Positions/fsd_lib_reverse_parallel_hold_high.png" width="150" height="262" /&gt;&lt;/div&gt;&lt;/p&gt;
 
-&lt;p&gt;Here is a Left to Left, Right to Right handhold, where the dancers are facing the same direction, with Leader in back, and Follower in front.&lt;/p&gt;
+&lt;p&gt;Here is a left to left, right to right handhold, where the dancers are facing the same direction, with Leader in back, and Follower in front.&lt;/p&gt;
 &lt;p&gt;&lt;div style="text-align:center"&gt;&lt;img src="images/Positions/Butterfly_FSD_LIB_High.PNG" width="150" height="262" /&gt;&lt;/div&gt;&lt;/p&gt;
 
-&lt;p&gt;Here is another Left to Left, Right to Right handhold, where the dancers are facing the same direction and side by side.&lt;/p&gt;
+&lt;p&gt;Here is another left to left, right to right handhold, which we already saw previously above, where the dancers are facing the same direction and side by side.&lt;/p&gt;
 &lt;p&gt;&lt;div style="text-align:center"&gt;&lt;img src="images/Positions/Closed_R_to_R_Hammerlock_SBS_LOL.PNG" width="150" height="262" /&gt;&lt;/div&gt;&lt;/p&gt;
 
-&lt;p&gt;Here is yet another Left to Left, Right to Left handhold, where the dancers are facing the same direction and with Leader in front, Follower in back.&lt;/p&gt;
+&lt;p&gt;Here is yet another left to left, right to left handhold, where the dancers are facing the same direction and with Leader in front, Follower in back.&lt;/p&gt;
 &lt;p&gt;&lt;div style="text-align:center"&gt;&lt;img src="images/Positions/Half_L_Butterfly__Half_R_Self_Neck_Loop_LOW.PNG" width="150" height="262" /&gt;&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;Because the last three positions are using the same handhold, you might guess that there is a way to transition from each of these positions to each of the others -- and you would be right. This is one of the fun aspects of salsa dance, figuring out how to enter and exit positions in interesting ways.&lt;/p&gt;
+&lt;h2&gt;Shorthand&lt;/h2&gt;
+&lt;p&gt;There are many other positions not shown here. Many positions do not have commonly accepted names. Because there are so many possible positions it is useful to use a shorthand system for describing positions that do not have common names.  It is also useful for providing a standard terminology for introducing common positions that do have a standard name to new dancers who are still just learning the basics. The &lt;a href="https://salsahandbook.github.io/output/salsa-handbooks.html"&gt;Salsa Handbooks&lt;/a&gt; on which this article is based use a shorthand system for referring to the dancers and their orientation. Those books provide a comprehensive overview of that shorthand notation system. This section gives a brief introduction to a subset of that shorthand notation.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Facing Each Other (FEO)&lt;/li&gt;
+&lt;li&gt;Facing Opposite Directions (FOD)&lt;/li&gt;
+&lt;li&gt;Side By Side (SBS)&lt;/li&gt;
+&lt;li&gt;Leader In Front (LIF)&lt;/li&gt;
+&lt;li&gt;Leader In Back (LIB)&lt;/li&gt;
+&lt;li&gt;Leader On Right (LOF)&lt;/li&gt;
+&lt;li&gt;Leader On Left (LOL)&lt;/li&gt;
+&lt;li&gt;Leader's Left Hand (LLH)&lt;/li&gt;
+&lt;li&gt;Leader's Right Hand (LLH)&lt;/li&gt;
+&lt;li&gt;Follower's Left Hand (FLH)&lt;/li&gt;
+&lt;li&gt;Follower's Right Hand (FLH)&lt;/li&gt;
+&lt;li&gt;Right to Right (R to R)&lt;/li&gt;
+&lt;li&gt;Left to Left (L to L)&lt;/li&gt;
+&lt;li&gt;Left to Right (L to R)&lt;/li&gt;
+&lt;li&gt;Right to Left (R to L)&lt;/li&gt;
+&lt;li&gt;Leader's right hand over Leader's left hand (LRH/LLH)&lt;/li&gt;
+&lt;li&gt;Leader's left hand over Leader's right hand (LRH/LLH)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Imagine all the ways in which you can combine these orientations and handholds. That gives a hint as to the number of possible positions. It turns out that there are many many positions! For a comprehensive compendium of salsa dance positions, see the &lt;a href="https://salsahandbook.github.io/output/salsa-handbooks.html"&gt;Handbook of Salsa Dance: Positions&lt;/a&gt;, links to which are also given below. Although that handbook is comprehensive, it is still not exhaustive! There are other positions not included there.  That is why it is useful to have a system for breaking down a position into consitituent parts. This makes it possible to not only learn novel positions, but to invent new ones.&lt;/p&gt;
+&lt;p&gt;Here is a position where the dancers are in a handhold, and where the dancers are &lt;code&gt;Facing Same Direction&lt;/code&gt; (FSD), &lt;code&gt;Side By Side&lt;/code&gt; (SBS), and &lt;code&gt;Leader On Left&lt;/code&gt; (LOL). Leader's right hand is to Follower's right hand (&lt;code&gt;Right to Right&lt;/code&gt;), and Leader's left hand is to Follower's left hand (&lt;code&gt;Left to Left&lt;/code&gt;). &lt;/p&gt;
+&lt;p&gt;&lt;div style="text-align:center"&gt;&lt;img src="images/Positions/Closed_R_to_R_Hammerlock_SBS_LOL.PNG" width="150" height="262" /&gt;&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;If we did not know the common name for this position, we could succinctly describe its orientation using the shorthand as &lt;code&gt;FSD SBS LOL, R to R, L to L&lt;/code&gt;.&lt;/p&gt;
 &lt;h3&gt;Summary&lt;/h3&gt;
-&lt;p&gt;Many salsa dance positions involve a handhold. One way to quickly breakdown a dance position is to observe whether it involves a handhold, and if so, which one.&lt;/p&gt;
+&lt;p&gt;All salsa dance patterns begin and end in a dance position. Having this insight makes it easier to assimilate a new dance pattern. A first step in breaking down a dance pattern is to observe how it begins and ends. Understanding the start and end position of a pattern makes it easier to learn the middle part of the pattern.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3&gt;More Reading&lt;/h3&gt;
 &lt;p&gt;To learn more about salsa dance check out these books:&lt;/p&gt;
@@ -126,6 +144,7 @@
 &lt;li&gt;&lt;a href="https://www.kobo.com/us/en/ebook/illustrated-handbook-of-salsa-dance-1"&gt;Kobo Edition&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.amazon.com/Illustrated-Handbook-Salsa-Dance-Patterns-ebook/dp/B084G82R7M"&gt;Kindle Edition&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.amazon.com/gp/product/B086Y7R97V"&gt;Paperback Edition on Amazon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://books.google.com/books/about?id=1BXmDwAAQBAJ"&gt;Google Play&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
