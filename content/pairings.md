@@ -3,32 +3,69 @@ Date: 2021-03-20 12:34:56
 Modified: 2021-03-20 12:48:00
 Category: blog
 Tags:
-Slug: salsa-positions
+Slug: partner-pairings
 Authors: Marisol Enchufa
-Summary: This article presents nine pairings of salsa dance position.
+Summary: This article presents nine pairings of salsa dance couples for the readers' consideration.  Vote for your favorite!
 
 
-# What is a salsa dance position
-The salsa dance position is a fundamental element of partner dance. Salsa dance elements include the following:
+# What
+Dear reader, I have a favor to ask of you. I am redoing all of the illustrations my books. I am about to re-render all of the illustrations with new models.  Could you kindly take a moment and tell me your favorite models by tweeting me at @salsahandbook?  Your feedback would be appreciated very much.
 
-* Steps
-* Handholds
-* Turns
-* Combs
-* Stylings
-* **Positions**
-* Patterns
-* Combinations
+> For the new reader who is unfamiliar with my books, I've published several reference books about salsa dance. Links are provided below in the More Reading section. 
 
-A salsa dance position comprises the orientation of the dancers with respect to each other and the handhold. For more about handholds, see [this article, which is all about salsa dance handholds](https://salsahandbook.github.io/output/salsa-handholds.html).
+# Why
+I illustrated those books using a quick and easy posing tool called Magic Poser. This was the best posing tool for what I needed at the time. However I outgrew that tool. 
 
-Aspects of dancer orientation include what direction each dancer is facing, whether the dancers are in a handhold, at what level are the hands held, and the direction of eye gaze. 
+> I very highly recommend Magic Poser. It allowed posing two models, provided pluggable body, hair, and wardrobe combinations, and was very easy to use.  I was able to create all of those poses on an iPhone 5s. 
 
+It was time to bite the bullet and learn a software that could provide flexibility I wanted to have to improve these illustrations. I have finally ramped up the rather steep learning curve on that software.  I am now in the final stage. The next step is to choose from among several candidate models to pick the ones to use for re-rendering the illustrations.
+
+# The choices
+
+##### Pairing 1
+<p><div style="text-align:center"><img src="images/pairings/1_front_left.png" width="150" height="262" /></div></p>
+
+##### Pairing 2
+
+<p><div style="text-align:center"><img src="images/pairings/2_front_left.png" width="150" height="262" /></div></p>
+
+
+##### Pairing 3
+
+<p><div style="text-align:center"><img src="images/pairings/3_front_left.png" width="150" height="262" /></div></p>
+
+
+##### Pairing 4
+
+<p><div style="text-align:center"><img src="images/pairings/4_front_left.png" width="150" height="262" /></div></p>
+
+##### Pairing 5
+
+<p><div style="text-align:center"><img src="images/pairings/5_front_left.png" width="150" height="262" /></div></p>
+
+##### Pairing 6
+
+<p><div style="text-align:center"><img src="images/pairings/6_front_left.png" width="150" height="262" /></div></p>
+
+##### Pairing 7
+
+<p><div style="text-align:center"><img src="images/pairings/7_front_left.png" width="150" height="262" /></div></p>
+
+##### Pairing 8
+
+<p><div style="text-align:center"><img src="images/pairings/8_front_left.png" width="150" height="262" /></div></p>
+
+##### Pairing 9
+
+<p><div style="text-align:center"><img src="images/pairings/8a_front_left.png" width="150" height="262" /></div></p>
+
+
+
+# TBD
 We refer to the leader as _Leader_ and to the follower as _Follower_.
 
 _Facing Each Other_ is a common orientation.  Here, the dancers are apart and facing each other. _Apart_ means that they are not touching. That also implies that they are not holding hands. That is, they are not in a [handhold](https://salsahandbook.github.io/output/salsa-handholds.html).
 
-<p><div style="text-align:center"><img src="images/Positions/Apart_FEO_LLHS.PNG" width="150" height="262" /></div></p>
 
 Here is a more advanced position where the dancers are _Facing Same Direction_, _Side By Side_, and with _Leader On Left_. 
 
