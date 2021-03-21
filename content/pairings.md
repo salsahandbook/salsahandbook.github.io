@@ -22,57 +22,47 @@ It was time to bite the bullet and learn a software that could provide flexibili
 
 # The choices
 
-##### Pairing 1a
-<p><div style="text-align:left"><img src="images/pairings/1_front_left(a).png" width="150" height="262" /></div></p>
+1. Pairing 1
+- <p><div style="text-align:left"><img src="images/pairings/1_front_left.png" width="150" height="262" /></div></p>
 
-##### Pairing 1
-<p><div style="text-align:center"><img src="images/pairings/1_front_left.png" width="150" height="262" /></div></p>
+1. Pairing 2
 
-##### Pairing 2
-
-<p><div style="text-align:center"><img src="images/pairings/2_front_left.png" width="150" height="262" /></div></p>
+- <p><div style="text-align:left"><img src="images/pairings/2_front_left.png" width="150" height="262" /></div></p>
 
 
-##### Pairing 3
+1. Pairing 3
 
-<p><div style="text-align:center"><img src="images/pairings/3_front_left.png" width="150" height="262" /></div></p>
+- <p><div style="text-align:left"><img src="images/pairings/3_front_left.png" width="150" height="262" /></div></p>
 
 
-##### Pairing 4
+1. Pairing 4
 
-<p><div style="text-align:center"><img src="images/pairings/4_front_left.png" width="150" height="262" /></div></p>
+- <p><div style="text-align:left"><img src="images/pairings/4_front_left.png" width="150" height="262" /></div></p>
 
-##### Pairing 5
+1. Pairing 5
 
-<p><div style="text-align:center"><img src="images/pairings/5_front_left.png" width="150" height="262" /></div></p>
+- <p><div style="text-align:left"><img src="images/pairings/5_front_left.png" width="150" height="262" /></div></p>
 
-##### Pairing 6
+1. Pairing 6
 
-<p><div style="text-align:center"><img src="images/pairings/6_front_left.png" width="150" height="262" /></div></p>
+- <p><div style="text-align:left"><img src="images/pairings/6_front_left.png" width="150" height="262" /></div></p>
 
-##### Pairing 7
+1. Pairing 7
 
-<p><div style="text-align:center"><img src="images/pairings/7_front_left.png" width="150" height="262" /></div></p>
+- <p><div style="text-align:left"><img src="images/pairings/7_front_left.png" width="150" height="262" /></div></p>
 
-##### Pairing 8
+1. Pairing 8
 
-<p><div style="text-align:center"><img src="images/pairings/8_front_left.png" width="150" height="262" /></div></p>
+- <p><div style="text-align:left"><img src="images/pairings/8_front_left.png" width="150" height="262" /></div></p>
 
-##### Pairing 9
+1. Pairing 9
 
-<p><div style="text-align:center"><img src="images/pairings/8a_front_left.png" width="150" height="262" /></div></p>
+- <p><div style="text-align:left"><img src="images/pairings/8a_front_left.png" width="150" height="262" /></div></p>
 
 
 
-# TBD
 We refer to the leader as _Leader_ and to the follower as _Follower_.
 
-_Facing Each Other_ is a common orientation.  Here, the dancers are apart and facing each other. _Apart_ means that they are not touching. That also implies that they are not holding hands. That is, they are not in a [handhold](https://salsahandbook.github.io/output/salsa-handholds.html).
-
-
-Here is a more advanced position where the dancers are _Facing Same Direction_, _Side By Side_, and with _Leader On Left_. 
-
-<p><div style="text-align:center"><img src="images/Positions/Closed_R_to_R_Hammerlock_SBS_LOL.PNG" width="150" height="262" /></div></p>
 
 
 # Why the dance position is important
