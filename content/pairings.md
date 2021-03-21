@@ -28,9 +28,10 @@ It was time to bite the bullet and learn a software that could provide flexibili
 * Tweet your selection to **@salsahandbook**
 * Email your feedback to **salsahandbook** (at) **gmail** (dot) **com**. 
 
-<p>
 
-### Thank you!
+
+> THANK YOU!
+
 
 
 # Pairing 1:
