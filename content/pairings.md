@@ -20,44 +20,103 @@ I illustrated those books using a quick and easy posing tool called Magic Poser.
 
 It was time to bite the bullet and learn a software that could provide flexibility I wanted to have to improve these illustrations. I have finally ramped up the rather steep learning curve on that software.  I am now in the final stage. The next step is to choose from among several candidate models to pick the ones to use for re-rendering the illustrations.
 
+
 # The choices
 
-1. Pairing 1
-- <p><div style="text-align:left"><img src="images/pairings/1_front_left.png" width="150" height="262" /></div></p>
+<p><div style="text-align:left">
 
-1. Pairing 2
+**Pairing 1**:
+    <img src="images/pairings/1_front_left.png" width="150" height="262" />
 
-- <p><div style="text-align:left"><img src="images/pairings/2_front_left.png" width="150" height="262" /></div></p>
+**Pairing 2**:
 
-
-1. Pairing 3
-
-- <p><div style="text-align:left"><img src="images/pairings/3_front_left.png" width="150" height="262" /></div></p>
+<img src="images/pairings/2_front_left.png" width="150" height="262" />
 
 
-1. Pairing 4
+**Pairing 3**:
 
-- <p><div style="text-align:left"><img src="images/pairings/4_front_left.png" width="150" height="262" /></div></p>
+<img src="images/pairings/3_front_left.png" width="150" height="262" />
 
-1. Pairing 5
+</div></p>
 
-- <p><div style="text-align:left"><img src="images/pairings/5_front_left.png" width="150" height="262" /></div></p>
 
-1. Pairing 6
 
-- <p><div style="text-align:left"><img src="images/pairings/6_front_left.png" width="150" height="262" /></div></p>
+<p><div style="text-align:left">
 
-1. Pairing 7
+##### Pairing 4
 
-- <p><div style="text-align:left"><img src="images/pairings/7_front_left.png" width="150" height="262" /></div></p>
+<img src="images/pairings/4_front_left.png" width="150" height="262" />
 
-1. Pairing 8
+##### Pairing 5
 
-- <p><div style="text-align:left"><img src="images/pairings/8_front_left.png" width="150" height="262" /></div></p>
+<img src="images/pairings/5_front_left.png" width="150" height="262" />
 
-1. Pairing 9
+##### Pairing 6
 
-- <p><div style="text-align:left"><img src="images/pairings/8a_front_left.png" width="150" height="262" /></div></p>
+<img src="images/pairings/6_front_left.png" width="150" height="262" />
+
+</div></p>
+
+<p><div style="text-align:left">
+
+
+##### Pairing 7
+
+<img src="images/pairings/7_front_left.png" width="150" height="262" />
+
+##### Pairing 8
+
+<img src="images/pairings/8_front_left.png" width="150" height="262" />
+
+##### Pairing 9
+
+<img src="images/pairings/8a_front_left.png" width="150" height="262" />
+
+
+</div></p>
+
+
+===========================================================================================================================================================================================================================================================================================================================
+
+
+# The choices
+
+##### Pairing 1
+<p><div style="text-align:left"><img src="images/pairings/1_front_left.png" width="150" height="262" /></div></p>
+
+##### Pairing 2
+
+<p><div style="text-align:left"><img src="images/pairings/2_front_left.png" width="150" height="262" /></div></p>
+
+
+##### Pairing 3
+
+<p><div style="text-align:left"><img src="images/pairings/3_front_left.png" width="150" height="262" /></div></p>
+
+
+##### Pairing 4
+
+<p><div style="text-align:left"><img src="images/pairings/4_front_left.png" width="150" height="262" /></div></p>
+
+##### Pairing 5
+
+<p><div style="text-align:left"><img src="images/pairings/5_front_left.png" width="150" height="262" /></div></p>
+
+##### Pairing 6
+
+<p><div style="text-align:left"><img src="images/pairings/6_front_left.png" width="150" height="262" /></div></p>
+
+##### Pairing 7
+
+<p><div style="text-align:left"><img src="images/pairings/7_front_left.png" width="150" height="262" /></div></p>
+
+##### Pairing 8
+
+<p><div style="text-align:left"><img src="images/pairings/8_front_left.png" width="150" height="262" /></div></p>
+
+##### Pairing 9
+
+<p><div style="text-align:left"><img src="images/pairings/8a_front_left.png" width="150" height="262" /></div></p>
 
 
 
