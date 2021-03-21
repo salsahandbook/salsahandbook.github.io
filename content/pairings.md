@@ -23,7 +23,7 @@ It was time to bite the bullet and learn a software that could provide flexibili
 # The choices
 
 ##### Pairing 1a
-<p><div style="text-align:center"><img src="images/pairings/1_front_left(a).png" width="150" height="262" /></div></p>
+<p><div style="text-align:left"><img src="images/pairings/1_front_left(a).png" width="150" height="262" /></div></p>
 
 ##### Pairing 1
 <p><div style="text-align:center"><img src="images/pairings/1_front_left.png" width="150" height="262" /></div></p>
