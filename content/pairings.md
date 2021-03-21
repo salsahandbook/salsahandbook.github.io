@@ -23,100 +23,42 @@ It was time to bite the bullet and learn a software that could provide flexibili
 
 # The choices
 
-<p><div style="text-align:left">
+# Pairing 1
+<p><div style="text-align:left"><img src="images/pairings/1_front_left.png" width="300" height="524" /></div></p>
 
-**Pairing 1**:
-    <img src="images/pairings/1_front_left.png" width="150" height="262" />
+# Pairing 2
 
-**Pairing 2**:
-
-<img src="images/pairings/2_front_left.png" width="150" height="262" />
+<p><div style="text-align:left"><img src="images/pairings/2_front_left.png" width="300" height="524" /></div></p>
 
 
-**Pairing 3**:
+# Pairing 3
 
-<img src="images/pairings/3_front_left.png" width="150" height="262" />
-
-</div></p>
+<p><div style="text-align:left"><img src="images/pairings/3_front_left.png" width="300" height="524" /></div></p>
 
 
+# Pairing 4
 
-<p><div style="text-align:left">
+<p><div style="text-align:left"><img src="images/pairings/4_front_left.png" width="300" height="524" /></div></p>
 
-##### Pairing 4
+# Pairing 5
 
-<img src="images/pairings/4_front_left.png" width="150" height="262" />
+<p><div style="text-align:left"><img src="images/pairings/5_front_left.png" width="300" height="524" /></div></p>
 
-##### Pairing 5
+# Pairing 6
 
-<img src="images/pairings/5_front_left.png" width="150" height="262" />
+<p><div style="text-align:left"><img src="images/pairings/6_front_left.png" width="300" height="524" /></div></p>
 
-##### Pairing 6
+# Pairing 7
 
-<img src="images/pairings/6_front_left.png" width="150" height="262" />
+<p><div style="text-align:left"><img src="images/pairings/7_front_left.png" width="300" height="524" /></div></p>
 
-</div></p>
+# Pairing 8
 
-<p><div style="text-align:left">
+<p><div style="text-align:left"><img src="images/pairings/8_front_left.png" width="300" height="524" /></div></p>
 
+# Pairing 9
 
-##### Pairing 7
-
-<img src="images/pairings/7_front_left.png" width="150" height="262" />
-
-##### Pairing 8
-
-<img src="images/pairings/8_front_left.png" width="150" height="262" />
-
-##### Pairing 9
-
-<img src="images/pairings/8a_front_left.png" width="150" height="262" />
-
-
-</div></p>
-
-
-===========================================================================================================================================================================================================================================================================================================================
-
-
-# The choices
-
-##### Pairing 1
-<p><div style="text-align:left"><img src="images/pairings/1_front_left.png" width="150" height="262" /></div></p>
-
-##### Pairing 2
-
-<p><div style="text-align:left"><img src="images/pairings/2_front_left.png" width="150" height="262" /></div></p>
-
-
-##### Pairing 3
-
-<p><div style="text-align:left"><img src="images/pairings/3_front_left.png" width="150" height="262" /></div></p>
-
-
-##### Pairing 4
-
-<p><div style="text-align:left"><img src="images/pairings/4_front_left.png" width="150" height="262" /></div></p>
-
-##### Pairing 5
-
-<p><div style="text-align:left"><img src="images/pairings/5_front_left.png" width="150" height="262" /></div></p>
-
-##### Pairing 6
-
-<p><div style="text-align:left"><img src="images/pairings/6_front_left.png" width="150" height="262" /></div></p>
-
-##### Pairing 7
-
-<p><div style="text-align:left"><img src="images/pairings/7_front_left.png" width="150" height="262" /></div></p>
-
-##### Pairing 8
-
-<p><div style="text-align:left"><img src="images/pairings/8_front_left.png" width="150" height="262" /></div></p>
-
-##### Pairing 9
-
-<p><div style="text-align:left"><img src="images/pairings/8a_front_left.png" width="150" height="262" /></div></p>
+<p><div style="text-align:left"><img src="images/pairings/8a_front_left.png" width="300" height="524" /></div></p>
 
 
 
