@@ -11,7 +11,7 @@ Summary: This article presents nine pairings of salsa dance couples for the read
 # WHAT
 Dear reader, I have a favor to ask of you. I am redoing all of the illustrations my books. I am about to re-render all of the illustrations with new models.  Could you kindly take a moment and tell me your favorite models by tweeting me at **@salsahandbook*?  Your feedback would be appreciated very much.
 
-> For the new reader who is unfamiliar with my books, I've published several reference books about salsa dance. Links are provided below in the More Reading section. 
+> An aside to readers unfamiliar this blog or my books: I've published several reference books about salsa dance. Links are provided below in the More Reading section. 
 
 # WHY
 I illustrated those books using a quick and easy posing tool called Magic Poser. This was the best posing tool for what I needed at the time. However the salsa handbooks have now outgrown that tool.
@@ -30,7 +30,7 @@ It was time to bite the bullet and learn a software that could provide flexibili
 
 <p>
 
-###Thank you!
+### Thank you!
 
 
 # Pairing 1:
