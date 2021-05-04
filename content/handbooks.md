@@ -23,7 +23,7 @@ Introducing the *Handbook of Salsa Dance* series. There are three books in this 
     * [Google Play](https://books.google.com/books/about?id=1BXmDwAAQBAJ)
 
 3. Illustrated Handbook of Salsa Dance: **Butterfly Patterns**
-    * [Kindle Edition](https://www.amazon.com/gp/product/B094311BLN)
+    * [Amazon](https://www.amazon.com/gp/product/B094311BLN)
 
 
 <div style="text-align:center"><p><br/></p></div>
@@ -61,10 +61,9 @@ This handbook also comes in an ebook version.  The ebook version is ideally suit
 
 ## Where to find :
 
-* [Apple Edition](https://books.apple.com/us/book/illustrated-handbook-of-salsa-dance-positions/id1513830159?ls=1)
-* [Kobo Edition](https://www.kobo.com/us/en/ebook/illustrated-handbook-of-salsa-dance)
-* [Kindle Edition](https://www.amazon.com/Handbook-Salsa-Dance-Marisol-Enchufa-ebook/dp/B084FBB468)
-* [Paperback Edition on Amazon](https://www.amazon.com/gp/product/B086Y7D5NT)
+* [Apple Books](https://books.apple.com/us/book/illustrated-handbook-of-salsa-dance-positions/id1513830159)
+* [Kobo](https://www.kobo.com/us/en/ebook/illustrated-handbook-of-salsa-dance)
+* [Amazon](https://www.amazon.com/Handbook-Salsa-Dance-Marisol-Enchufa-ebook/dp/B084FBB468)
 * [Google Play](https://books.google.com/books/about?id=yBXmDwAAQBAJ)
 
 
@@ -92,10 +91,10 @@ The patterns in this handbook can be used to create thousands of combinations. I
 
 ## Where to find :
 
-* [Apple Edition](https://books.apple.com/us/book/illustrated-handbook-of-salsa-dance-patterns/id1513834201)
-* [Kobo Edition](https://www.kobo.com/us/en/ebook/illustrated-handbook-of-salsa-dance-1)
-* [Kindle Edition](https://www.amazon.com/Illustrated-Handbook-Salsa-Dance-Patterns-ebook/dp/B084G82R7M)
-* [Paperback Edition on Amazon](https://www.amazon.com/gp/product/B086Y7R97V)
+* [Apple Books](https://books.apple.com/us/book/illustrated-handbook-of-salsa-dance-patterns/id1513834201)
+* [Kobo](https://www.kobo.com/us/en/ebook/illustrated-handbook-of-salsa-dance-1)
+* [Amazon](https://www.amazon.com/Handbook-Salsa-Patterns-Marisol-Enchufa-ebook/dp/B093P9WS9H)
+* [Google Play](https://books.google.com/books/about?id=1BXmDwAAQBAJ)
 
 
 <div style="text-align:center"><p><br/></p></div>
@@ -125,7 +124,7 @@ This handbook provides 5 sets of variations that show how to get into and out of
 <div style="text-align:center"><p><br/></p></div>
 
 ## Where to find :
-* [Kindle Edition](https://www.amazon.com/gp/product/B087C9C4CP)
+* [Amazon](https://www.amazon.com/gp/product/B094311BLN)
 
 <div style="text-align:center"><p><br/></p></div>
 
