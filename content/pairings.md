@@ -97,22 +97,20 @@ It was time to bite the bullet and learn a software that could provide flexibili
 
 ### More Reading
 
-To learn more about salsa dance check out these books (but still using the old models in illustrations):
+To learn more about salsa dance check out these books (now using the new models in illustrations):
 
 1. Illustrated Handbook of Salsa Dance: **Positions**
-    * [Apple Edition](https://books.apple.com/us/book/illustrated-handbook-of-salsa-dance-positions/id1513830159)
-    * [Kobo Edition](https://www.kobo.com/us/en/ebook/illustrated-handbook-of-salsa-dance)
-    * [Kindle Edition](https://www.amazon.com/Handbook-Salsa-Dance-Marisol-Enchufa-ebook/dp/B084FBB468)
-    * [Paperback Edition on Amazon](https://www.amazon.com/gp/product/B086Y7D5NT)
+    * [Apple Books](https://books.apple.com/us/book/illustrated-handbook-of-salsa-dance-positions/id1513830159)
+    * [Kobo](https://www.kobo.com/us/en/ebook/illustrated-handbook-of-salsa-dance)
+    * [Amazon](https://www.amazon.com/Handbook-Salsa-Dance-Marisol-Enchufa-ebook/dp/B084FBB468)
     * [Google Play](https://books.google.com/books/about?id=yBXmDwAAQBAJ)
 
 2. Illustrated Handbook of Salsa Dance: **Patterns**
-    * [Apple Edition](https://books.apple.com/us/book/illustrated-handbook-of-salsa-dance-patterns/id1513834201)
-    * [Kobo Edition](https://www.kobo.com/us/en/ebook/illustrated-handbook-of-salsa-dance-1)
-    * [Kindle Edition](https://www.amazon.com/Illustrated-Handbook-Salsa-Dance-Patterns-ebook/dp/B084G82R7M)
-    * [Paperback Edition on Amazon](https://www.amazon.com/gp/product/B086Y7R97V)
+    * [Apple Books](https://books.apple.com/us/book/illustrated-handbook-of-salsa-dance-patterns/id1513834201)
+    * [Kobo](https://www.kobo.com/us/en/ebook/illustrated-handbook-of-salsa-dance-1)
+    * [Amazon](https://www.amazon.com/Handbook-Salsa-Patterns-Marisol-Enchufa-ebook/dp/B093P9WS9H)
     * [Google Play](https://books.google.com/books/about?id=1BXmDwAAQBAJ)
 
 3. Illustrated Handbook of Salsa Dance: **Butterfly Patterns**
-    * [Kindle Edition](https://www.amazon.com/gp/product/B087C9C4CP)
+    * [Amazon](https://www.amazon.com/gp/product/B094311BLN)
 
